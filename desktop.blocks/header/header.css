@@ -1,0 +1,11 @@
+.header
+{
+    background-color: #555555;
+    border-color: #666666;
+    border-width: 5px;
+}
+
+.header__text
+{
+    font-size: 14px;
+}
