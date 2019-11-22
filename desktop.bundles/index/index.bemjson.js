@@ -10,11 +10,12 @@ module.exports = {
     scripts: [{ elem: 'js', url: 'index.min.js' }],
     mods: { theme: 'islands' },
     content: [
+
         {
-            block: 'header',
-            content: [
-                'header content goes here'
-            ]
+            block: 'header'
+  //          content: [
+  //              'header content goes here'
+  //          ]
         },
         {
             block: 'content',
